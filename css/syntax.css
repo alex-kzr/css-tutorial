@@ -1,7 +1,14 @@
-article.featured-content{
-    background: red;
+/* not used on A tag
+body{
+    color: red;
+}
+*/
+*{
+    color: red;
 }
 
-div.featured-content{
-    background: blue;
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
 }
