@@ -1,14 +1,11 @@
-/* not used on A tag
-body{
-    color: red;
-}
-*/
-*{
-    color: red;
+article{
+    font-size: 16px;
 }
 
-*{
-    margin: 0;
-    padding: 0;
-    color: black;
+article h2{
+    font-size: 4em;
+}
+
+article p{
+    font-size: 400%;
 }
