@@ -1,8 +1,8 @@
-article{
-    text-decoration: underline overline red;
+h1{
+    font-weight: normal;
 }
 
-a{
-    text-decoration: inherit;
-    text-decoration-color: red;
+p{
+    font-weight: lighter;
+    font-family: 'Yu Gothic';
 }
