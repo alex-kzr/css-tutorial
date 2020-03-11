@@ -1,8 +1,11 @@
-.banner{
-    background-color: #606060;
+.banner1{
     width: 100%;
     height: 300px;
-    background-image: url(https://www.iconsdb.com/icons/preview/white/idea-xxl.png), url(https://www.iconsdb.com/icons/preview/white/lightbulb-xxl.png);
-    background-repeat: no-repeat;
-    background-position: left, right;   
+    background-color: #000070;
+}
+
+.banner2{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(250, 150, 60);
 }
