@@ -1,11 +1,22 @@
-body{
+/******************** 
+SPECIFICITY RULES
+id - 100 points
+classes - 10 points
+elements - 1 point
+********************/
+
+#main-content p{
     color: red;
 }
 
-div{
-    color: blue;
+p{
+    color: black;
 }
 
-p{
+.test{
+    color: green;
+}
+
+strong{
     color: green;
 }
