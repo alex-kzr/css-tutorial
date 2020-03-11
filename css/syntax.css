@@ -1,3 +1,8 @@
-article h2, article p{
-    font-family: totalyAwesomeFont, Helvetica, sans-serif;
+article{
+    text-decoration: underline overline red;
+}
+
+a{
+    text-decoration: inherit;
+    text-decoration-color: red;
 }
