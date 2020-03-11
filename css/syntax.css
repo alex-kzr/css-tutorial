@@ -1,22 +1,7 @@
-/******************** 
-SPECIFICITY RULES
-id - 100 points
-classes - 10 points
-elements - 1 point
-********************/
+p{
+    color: red !important;
+}
 
 #main-content p{
-    color: red;
-}
-
-p{
-    color: black;
-}
-
-.test{
-    color: green;
-}
-
-strong{
     color: green;
 }
