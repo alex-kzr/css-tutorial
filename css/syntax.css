@@ -1,4 +1,4 @@
-/* colorzilla.com/gradient-editor */
+/* cssmatic.com/box-shadow */
 
 .button{
     background: #aadddd;
@@ -15,6 +15,7 @@
     background: -moz-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
     background: -webkit-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
     background: linear-gradient(top, #aadddd 0%, #77aaaa 100%);
+    box-shadow: 2px 2px 4px 2px rgb(40,40,40,0.5);
 }
 
 .button:hover{
