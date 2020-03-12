@@ -1,11 +1,34 @@
-.banner1{
-    width: 100%;
-    height: 300px;
-    background-color: #000070;
+.circle{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(200, 200, 100, 0.5);
+    position: absolute;
+    border-radius: 200px;
+    top: 50px;
+    left: 50px;
+    text-align: center;
 }
 
-.banner2{
-    width: 100%;
-    height: 300px;
-    background-color: rgb(250, 150, 60);
+.circle-2{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(200, 100, 200);
+    position: absolute;
+    border-radius: 200px;
+    top: 250px;
+    left: 150px;
+    opacity: 0.5;
+    text-align: center;
+}
+
+.circle-3{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(100, 200, 200);
+    position: absolute;
+    border-radius: 200px;
+    top: 50px;
+    left: 250px;
+    opacity: 0.5;
+    text-align: center;
 }
