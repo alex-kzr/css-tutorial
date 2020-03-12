@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    background: #eee;
+
+}
+
+#wrapper{
+    width: 900px;
+    margin: 0 auto;
+    background: #fff;
+}
+
